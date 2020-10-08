@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapingForContactInfosForm", "WebScrapingForContactInfosForm\WebScrapingForContactInfosForm.csproj", "{C7716FE6-0D1A-44A2-8277-13751FF00BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLibrary", "TheLibrary\TheLibrary.csproj", "{322A102E-72CC-4456-86F2-03A3FAFE3E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7716FE6-0D1A-44A2-8277-13751FF00BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7716FE6-0D1A-44A2-8277-13751FF00BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7716FE6-0D1A-44A2-8277-13751FF00BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7716FE6-0D1A-44A2-8277-13751FF00BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322A102E-72CC-4456-86F2-03A3FAFE3E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322A102E-72CC-4456-86F2-03A3FAFE3E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322A102E-72CC-4456-86F2-03A3FAFE3E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322A102E-72CC-4456-86F2-03A3FAFE3E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B090A2-854D-4EA9-9B05-31E282D3E389}
+	EndGlobalSection
+EndGlobal
